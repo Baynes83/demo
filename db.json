@@ -9,7 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "users": [
-    { "id": 1, "name": "Julian User" }
+    { "id": 2, "name": "Julian User" }
   ],
   "todos": [
     { "id": 1, "title": "Task One", "completed": false, "userId": 1 },
